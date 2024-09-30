@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace MauiAppBuscaCepLocal.Model
 {
-    internal class Endereco
+    public class Endereco
     {
         public int id_logradouro { get; set; }
         public int id_cidade { get; set; }
